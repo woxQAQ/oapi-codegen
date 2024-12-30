@@ -2,6 +2,8 @@
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9450/badge)](https://www.bestpractices.dev/projects/9450)
 
+> a personal fork which support add custom server templates (excepet from official supports) 
+
 `oapi-codegen` is a command-line tool and library to convert OpenAPI specifications to Go code, be it [server-side implementations](#generating-server-side-boilerplate), [API clients](#generating-api-clients), or simply [HTTP models](#generating-api-models).
 
 Using `oapi-codegen` allows you to reduce the boilerplate required to create or integrate with services based on [OpenAPI 3.0](https://github.com/OAI/OpenAPI-Specification/blob/main/versions/3.0.0.md), and instead focus on writing your business logic, and working on the real value-add for your organisation.
